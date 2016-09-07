@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Now I can use GitHub
 Creating a new branch is quick and simple.
+Add something new to this branch.
