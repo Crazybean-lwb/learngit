@@ -1,7 +1,9 @@
 1.自报家门：绑定的登入账号和邮箱
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
-
+git的本地仓库的登入方式：
+先找到本地仓库所在的目录文件夹
+$ cd C:/Users/BigData/learngit
 
 2.创建版本库
 $ mkdir learngit
