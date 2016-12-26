@@ -4,6 +4,12 @@ $ git config --global user.email "email@example.com"
 git的本地仓库的登入方式：
 先找到本地仓库所在的目录文件夹
 $ cd C:/Users/BigData/learngit
+最后注意添加文件到数据仓库后需要将数据提交，具体流程参考如下：
+$git add Git教程与shell命令.txt
+添加文件注释
+$git commit -m "添加git的登入方式以及修改文件以及上传的方法"
+上传到数据仓库
+$git push
 
 2.创建版本库
 $ mkdir learngit
